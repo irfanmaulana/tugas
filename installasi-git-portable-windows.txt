@@ -1,0 +1,4 @@
+- Download dulu software PortableGit
+- Extract ke directory C:
+- Setting environment variable untuk path git
+- buka git cmd kedalam folder instalasi git
